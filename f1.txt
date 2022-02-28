@@ -1,3 +1,6 @@
 f1 test
 TE#WX
+TE#WX
+TE#WX
+TE#WX
 fi eqw
